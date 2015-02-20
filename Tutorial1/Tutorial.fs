@@ -9,7 +9,7 @@
 // For a larger collection of F# samples, see:
 //     http://go.microsoft.com/fwlink/?LinkID=124614
 //
-// Contents:
+// Contents:nn
 //   - Simple computations
 //   - Functions on integers  
 //   - Tuples 
